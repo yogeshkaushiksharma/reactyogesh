@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/hass/static/css/main.073c9b0a.css",
-    "main.js": "/hass/static/js/main.5824df17.js",
-    "static/js/787.4d81110b.chunk.js": "/hass/static/js/787.4d81110b.chunk.js",
-    "static/media/yogi.jpeg": "/hass/static/media/yogi.8b1799062c8136c981d7.jpeg",
-    "static/media/g4.jpg": "/hass/static/media/g4.2d4ccf80ef0424d3e196.jpg",
-    "static/media/about.jpg": "/hass/static/media/about.e6711bb9a047852143a1.jpg",
-    "static/media/g6.jpg": "/hass/static/media/g6.4494a01e1bd9e0cf2b8c.jpg",
-    "static/media/g2.jpg": "/hass/static/media/g2.94a29470f8f06c72f245.jpg",
-    "static/media/logo4.png": "/hass/static/media/logo4.04be1be744b6c24f05b1.png",
-    "static/media/g5.jpg": "/hass/static/media/g5.d8c97006e5aa9029f4d1.jpg",
-    "static/media/g1.jpg": "/hass/static/media/g1.c2fab77a8fc5aa37756d.jpg",
-    "static/media/logo1.png": "/hass/static/media/logo1.f1eda017308357d74e3c.png",
-    "static/media/g3.jpg": "/hass/static/media/g3.aaac9d3bd659388fa828.jpg",
-    "static/media/logo2.png": "/hass/static/media/logo2.86126cf07a1c58a8a28f.png",
-    "static/media/logo3.png": "/hass/static/media/logo3.1c48c9d14db5174d1574.png",
-    "static/media/logo5.png": "/hass/static/media/logo5.1ebf7714efbd31a233f8.png",
-    "static/media/logo.svg": "/hass/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/hass/index.html",
-    "main.073c9b0a.css.map": "/hass/static/css/main.073c9b0a.css.map",
-    "main.5824df17.js.map": "/hass/static/js/main.5824df17.js.map",
-    "787.4d81110b.chunk.js.map": "/hass/static/js/787.4d81110b.chunk.js.map"
+    "main.css": "/reactportfolioyogesh.git/static/css/main.073c9b0a.css",
+    "main.js": "/reactportfolioyogesh.git/static/js/main.8c9133fe.js",
+    "static/js/787.4d81110b.chunk.js": "/reactportfolioyogesh.git/static/js/787.4d81110b.chunk.js",
+    "static/media/yogi.jpeg": "/reactportfolioyogesh.git/static/media/yogi.8b1799062c8136c981d7.jpeg",
+    "static/media/g4.jpg": "/reactportfolioyogesh.git/static/media/g4.2d4ccf80ef0424d3e196.jpg",
+    "static/media/about.jpg": "/reactportfolioyogesh.git/static/media/about.e6711bb9a047852143a1.jpg",
+    "static/media/g6.jpg": "/reactportfolioyogesh.git/static/media/g6.4494a01e1bd9e0cf2b8c.jpg",
+    "static/media/g2.jpg": "/reactportfolioyogesh.git/static/media/g2.94a29470f8f06c72f245.jpg",
+    "static/media/logo4.png": "/reactportfolioyogesh.git/static/media/logo4.04be1be744b6c24f05b1.png",
+    "static/media/g5.jpg": "/reactportfolioyogesh.git/static/media/g5.d8c97006e5aa9029f4d1.jpg",
+    "static/media/g1.jpg": "/reactportfolioyogesh.git/static/media/g1.c2fab77a8fc5aa37756d.jpg",
+    "static/media/logo1.png": "/reactportfolioyogesh.git/static/media/logo1.f1eda017308357d74e3c.png",
+    "static/media/g3.jpg": "/reactportfolioyogesh.git/static/media/g3.aaac9d3bd659388fa828.jpg",
+    "static/media/logo2.png": "/reactportfolioyogesh.git/static/media/logo2.86126cf07a1c58a8a28f.png",
+    "static/media/logo3.png": "/reactportfolioyogesh.git/static/media/logo3.1c48c9d14db5174d1574.png",
+    "static/media/logo5.png": "/reactportfolioyogesh.git/static/media/logo5.1ebf7714efbd31a233f8.png",
+    "static/media/logo.svg": "/reactportfolioyogesh.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactportfolioyogesh.git/index.html",
+    "main.073c9b0a.css.map": "/reactportfolioyogesh.git/static/css/main.073c9b0a.css.map",
+    "main.8c9133fe.js.map": "/reactportfolioyogesh.git/static/js/main.8c9133fe.js.map",
+    "787.4d81110b.chunk.js.map": "/reactportfolioyogesh.git/static/js/787.4d81110b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5824df17.js"
+    "static/js/main.8c9133fe.js"
   ]
 }
